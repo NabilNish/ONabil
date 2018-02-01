@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ONabil</string>
+    <string name="card_no">Credit Card No.</string>
+    <string name="amount">Amount (TBH)</string>
+    <string name="submit">Submit</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="sorry">Sorry! An error occurred! Please check your Internet Connection!</string>
+</resources>
